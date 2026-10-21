@@ -1,4 +1,4 @@
-# schema-5-yt
+# yt-shorts-automation
 
 A python script used to automate short content.
 
